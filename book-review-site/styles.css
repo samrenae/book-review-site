@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header, footer{
+    border: 2px solid lavenderblush;
+    background-color:lavender ;
+}
+main{
+    background-color: lightpink;
+}
+span{
+    font-style: italic;
+}
+h1{
+    color: steelblue;
+}
+nav a:hover {
+    color: green;
+}
+ul li{
+    list-style: none;
+}
